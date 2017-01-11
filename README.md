@@ -6,7 +6,7 @@ Initially the project was to use an arduino and the time had to be retrieved by 
 
 ![](https://github.com/ScoobieSnax/SSD1322-Pi-Clock/blob/master/Finished%20project.jpg?raw=true)
 
-
+## Hardware
 
 
 
