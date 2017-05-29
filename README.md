@@ -10,5 +10,6 @@ Initially the project was to use an arduino and the time had to be retrieved by 
 ## Hardware
 
 The Screen:
+
 [ER-OLEDM032-1W display from Buydisplay](http://www.buydisplay.com/default/serial-oled-module-price-3-2-inch-display-256x64-screens-white-on-black).
 
