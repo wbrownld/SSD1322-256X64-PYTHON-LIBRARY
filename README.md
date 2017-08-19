@@ -16,5 +16,5 @@ The ER-OLEDM032-1 is a 256x64 graphical OLED display. Each pixel is a 4-bit gray
 
 ![](https://github.com/ScoobieSnax/SSD1322-Pi-Clock/blob/master/OLEDM032%20connect.jpg?raw=true)
 
-
+### The Rotary Encoder :
 
