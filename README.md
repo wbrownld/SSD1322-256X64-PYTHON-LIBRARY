@@ -14,7 +14,7 @@ Initially the project was to use an arduino and the time had to be retrieved by 
 
 The ER-OLEDM032-1 is a 256x64 graphical OLED display. Each pixel is a 4-bit gray-scale value. The display board has four different interface options (8-bit parallel for 6800 series microprocessor, 8-bit parallel for 8080 series microprocessor, 3-wire SPI interface and 4-wire SPI interface). I used the 4-wire SPI mode in this project to connect the display to the Pi2.
 
-![image](https://github.com/ScoobieSnax/SSD1322-Pi-Clock/blob/master/OLEDM032%20connect.jpg=640x480)
+![image](https://github.com/ScoobieSnax/SSD1322-Pi-Clock/blob/master/OLEDM032%20connect.jpg)
 
 ### The Rotary Encoder :
 
