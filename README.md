@@ -1,6 +1,6 @@
-# SSD1322-Pi-Clock
+# SSD1322 PYTHON LIBRARY
 
-Here's my Pi2 clock with a 256x64 oled display.
+Here's a python library to use with the SSD1322 256X64 display (ER-OLEDM032-1). 
 
 Initially the project was to use an arduino and the time had to be retrieved by the DCF signal. But 1 : Arduino was not powerful enough to use a 256x64 display and 2 : DCF signal is too weak at my home. So arduino is replaced by a Pi2 and time is now retrieved par NTP (via wifi dongle) and i added possibility to ear some webradios to this little box, just for fun ;)
 
