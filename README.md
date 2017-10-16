@@ -4,7 +4,7 @@ Here's a python library to use with the SSD1322 256X64 display (ER-OLEDM032-1) a
 
 This library was originally created by [TopherCantrell](https://github.com/topherCantrell/ER-OLEDM032-1), i just added some enhancements (with his permission !), drawing shapes, fonts added, etc...
 
-[Reference Manual](https://github.com/olikraus/u8g2/wiki)
+[Reference Manual](https://github.com/ScoobieSnax/SSD1322-256X64-PYTHON-LIBRARY/wiki)
 
 ### The Screen :
 
