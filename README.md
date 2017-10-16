@@ -4,6 +4,8 @@ Here's a python library to use with the SSD1322 256X64 display (ER-OLEDM032-1) a
 
 This library was originally created by [TopherCantrell](https://github.com/topherCantrell/ER-OLEDM032-1), i just added some enhancements (with his permission !), drawing shapes, fonts added, etc...
 
+[Reference Manual](https://github.com/olikraus/u8g2/wiki)
+
 ### The Screen :
 
 [ER-OLEDM032-1W display from Buydisplay](http://www.buydisplay.com/default/serial-oled-module-price-3-2-inch-display-256x64-screens-white-on-black).
