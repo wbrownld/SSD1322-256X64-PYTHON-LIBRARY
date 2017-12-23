@@ -15,8 +15,8 @@ The ER-OLEDM032-1 is a 256x64 graphical OLED display. Each pixel is a 4-bit gray
 ![](https://github.com/ScoobieSnax/SSD1322-256X64-PYTHON-LIBRARY/blob/master/Img/Datasheet%20SPI4.png)
 ![](https://github.com/ScoobieSnax/SSD1322-256X64-PYTHON-LIBRARY/blob/master/Img/SPI4.jpg)
 ![](https://github.com/ScoobieSnax/SSD1322-256X64-PYTHON-LIBRARY/blob/master/Img/Connector.jpg)
-![](https://github.com/ScoobieSnax/SSD1322-Pi-Clock/blob/master/OLEDM032%20connect.jpg?raw=true)
+![](https://github.com/ScoobieSnax/SSD1322-Pi-Clock/blob/master/Img/OLEDM032%20connect.jpg?raw=true)
 
 ### Personnal project with this library :
 
-![](https://github.com/ScoobieSnax/SSD1322-256X64-PYTHON-LIBRARY/blob/master/Finished%20project.jpg)
+![](https://github.com/ScoobieSnax/SSD1322-256X64-PYTHON-LIBRARY/blob/master/Img/Finished%20project.jpg)
