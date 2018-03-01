@@ -1,6 +1,6 @@
 # SSD1322 PYTHON LIBRARY
 
-Here's a python library to use with the SSD1322 256X64 display (ER-OLEDM032-1) and a Raspberry Pi2.
+Here's a python library to use with the SSD1322 256X64 display (ER-OLEDM032-1) and a Raspberry Pi2/3.
 
 This library was originally created by [TopherCantrell](https://github.com/topherCantrell/ER-OLEDM032-1), i just added some enhancements (with his permission), drawing shapes, fonts added, etc...
 
